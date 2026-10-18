@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
+// Titik awal aplikasi: menjalankan widget MyApp
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
